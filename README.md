@@ -29,8 +29,8 @@ Make sure you have Python 3.x and the following packages installed:
 - matplotlib
 - seaborn
 
-You can install them using:
-pip install pandas numpy scikit-learn matplotlib seaborn
+**You can install them using:**
+'''pip install pandas numpy scikit-learn matplotlib seaborn'''
 
 ### 2. Run the Code
 
