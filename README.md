@@ -19,6 +19,28 @@ This project builds a machine learning model to **predict the expected CTC (Cost
 
 ## Usage
 
+## How to Run This Code
+
+1. **Download the dataset:**
+   - Download the `expected_ctc.csv` file from this repository (click on the file, then click "Download raw file" or use the download button).
+
+2. **Open the code in Google Colab:**
+   - Go to the code file (e.g., `random_forest_comparison.py` or the relevant Jupyter Notebook) in this repository.
+   - Click the "Open in Colab" badge (if present), or manually go to [Google Colab](https://colab.research.google.com/) and upload/copy the code.
+
+3. **Upload the dataset to Colab:**
+   - In your Colab session, click the folder icon on the left sidebar to open the file browser.
+   - Click the "Upload" button and select the `expected_ctc.csv` file you downloaded in step 1.
+
+4. **Run the code:**
+   - Execute each cell in order (if using a notebook), or run the script as needed.
+   - The code will read the uploaded `expected_ctc.csv` and proceed with analysis and modeling.
+
+**Note:**  
+If you encounter any errors related to missing files, make sure the `expected_ctc.csv` is uploaded and visible in the Colab file browser.
+
+---
+
 ### 1. Install Requirements
 
 Make sure you have Python 3.x and the following packages installed:
